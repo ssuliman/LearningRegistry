@@ -1,4 +1,4 @@
-This line is added  as a test for Githu/Pivotal Tracker integration.
+This line is added  as a test for Githu/Pivotal Tracker integration
 
 This file is for you to describe the LR application. Typically
 you would include information such as the information below:
